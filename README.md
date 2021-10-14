@@ -15,11 +15,11 @@
 ##
 
 <div>
-    <a href="https://discord.com/users/898303622683697202" target="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" ></a>
-    <a href="https://open.spotify.com/user/22q47zpvpge46yyabjwibs6mq?si=41ab913a3e344ce1" target="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" ></a>
-    <a href="htttps://twitch.tv/rukasudesuu" target = "https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" ></a>
-    <a href="https://www.linkedin.com/in/lucascamargoekroth/" target = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-    <!--<a href="" target = "">
-    <a href="" target = "">
+    <a href="https://discord.com/users/898303622683697202"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" ></a>
+    <a href="https://open.spotify.com/user/22q47zpvpge46yyabjwibs6mq?si=41ab913a3e344ce1"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" ></a>
+    <a href="htttps://twitch.tv/rukasudesuu"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" ></a>
+    <a href="https://www.linkedin.com/in/lucascamargoekroth/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+    <!--<a href="" target = ""></a>
+    <a href="" target = ""></a>
     -->
 <div>
