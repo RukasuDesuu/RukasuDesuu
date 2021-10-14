@@ -9,7 +9,7 @@
    <img src = "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
    <img src = "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
    <img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img align="right" alt="" height="160" style="border-radius:50px;" src="https://c.tenor.com/1uklp9zqO3oAAAAC/computer-typing.gif">
+    <img align="right" alt="" height="160" style="border-radius:100px;" src="https://c.tenor.com/1uklp9zqO3oAAAAC/computer-typing.gif">
 
 </div>
 
