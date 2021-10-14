@@ -1,7 +1,7 @@
 <div>
     <p align="center">
     <img align = "center" height="160em" src="https://github-readme-stats.vercel.app/api?username=RukasuDesuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img align = "center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RukasuDesuu&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img align = "center" height="160em" weidth = "380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RukasuDesuu&layout=compact&langs_count=7&theme=tokyonight"/>
     </p>
 </div>
    <div style = "display: inline_block"><br>
