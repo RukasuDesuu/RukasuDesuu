@@ -3,7 +3,7 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RukasuDesuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RukasuDesuu&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-   <div style = "display: inline_block"><br>
+   <div style = "display: inline_block;width:380em;"><br>
    <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
    <img src = "https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white">
    <img src = "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
